@@ -29,11 +29,13 @@ html{
         0px 2px 4px -1px hsla(0,0%,0%,0.2);
     border: solid 4px #ffac80;
     border-radius: 15px;
+
+    max-width: 100%;
 }
 
 .inp{
     height: 50px;
-    width: 700px;
+    width: 90%;
     text-align: center;
     font-size: 30px;
 }
